@@ -28,3 +28,4 @@
 ## Trophy
 ![trophy](https://github-profile-trophy.vercel.app/?username=Enuwbt&theme=github_dark)
 
+![](https://raw.githubusercontent.com/Enuwbt/Enuwbt/output/github-contribution-grid-snake.svg)
