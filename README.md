@@ -19,11 +19,13 @@
 </p>
 
 ## Stats
+
+<p align="left"> 
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Enuwbt&layout=compact&show_icons=true&theme=github_dark" />
+  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=Enuwbt&theme=github_dark&show_icons=ture" />
+</p>
+
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Enuwbt&theme=github_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Enuwbt&theme=github_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Enuwbt&theme=github_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Enuwbt&theme=github_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Enuwbt&theme=github_dark&utcOffset=9)
 
 ## Trophy
 ![trophy](https://github-profile-trophy.vercel.app/?username=Enuwbt&theme=github_dark)
